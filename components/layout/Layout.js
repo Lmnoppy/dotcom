@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-export const siteTitle = "Covid UI"
+export const siteTitle = "Lmnoppy"
 
 export default function Layout({ children }) {
 
