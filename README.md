@@ -1,2 +1,2 @@
-# dotcom
-lmnoppy.com website
+## Placeholder for Lmnoppy.com  
+Figured having something is better than nothing, so decided to make a basic place holder ui. Why did i use nextJs for a simple site? Just to test it and vercel hosting. 

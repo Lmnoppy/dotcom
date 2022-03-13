@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@layer components {
+  .content-container {
+    @apply bg-gray-900
+    w-screen
+    h-screen
+    overflow-hidden;
+  }
+}
