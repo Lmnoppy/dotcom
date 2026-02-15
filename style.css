@@ -1,0 +1,81 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #0e2a47;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1023%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1405 405L1404 686' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M170 336L169 58' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M12 323L11 560' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M677 478L676 867' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M711 413L710 772' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M1428 116L1427 336' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M1346 516L1345 140' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M366 466L365 688' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M254 547L253 766' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M308 365L307 45' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M131 134L130 313' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M67 282L66 662' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M863 365L862 217' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M162 72L161 241' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M866 248L865 402' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M26 55L25 -127' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M117 407L116 -6' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M284 98L283 -162' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M593 395L592 538' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M846 477L845 734' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M592 100L591 -231' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M1094 70L1093 -128' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M979 90L978 -134' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M351 229L350 -163' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M719 520L718 823' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M498 1L497 257' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M434 94L433 370' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M771 516L770 880' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M526 34L525 -316' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M701 381L700 79' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1025%26quot%3b)' stroke-linecap='round' class='Down'%3e%3c/path%3e%3cpath d='M934 244L933 -48' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M1281 444L1280 784' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M1169 121L1168 -291' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M508 144L507 468' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M510 323L509 584' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3cpath d='M36 360L35 48' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1024%26quot%3b)' stroke-linecap='round' class='Up'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1023'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='0%25' y1='100%25' x2='0%25' y2='0%25' id='SvgjsLinearGradient1024'%3e%3cstop stop-color='rgba(28%2c 83%2c 142%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='%231c538e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='0%25' y1='0%25' x2='0%25' y2='100%25' id='SvgjsLinearGradient1025'%3e%3cstop stop-color='rgba(28%2c 83%2c 142%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='%231c538e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #f9fafb;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  width: 100%;
+  padding: 1rem;
+}
+
+.card {
+  max-width: 360px;
+  margin: 0 auto;
+  background: #f1f5f9;
+  border-radius: 12px;
+  padding: 2.5rem 2rem 2rem;
+  text-align: center;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+}
+
+.avatar {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1rem;
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 1.75rem;
+  color: #111827;
+  margin-bottom: 0.25rem;
+}
+
+.tagline {
+  font-size: 0.875rem;
+  color: #6b7280;
+  margin-bottom: 1.5rem;
+}
+
+nav {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.btn {
+  flex: 1;
+  display: inline-block;
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+
+.btn-github {
+  background: #24292e;
+  color: #f0fff4;
+}
+
+.btn-github:hover {
+  background: #444d56;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
